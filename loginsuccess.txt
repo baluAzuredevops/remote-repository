@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 loginsuccess
 new line change
+=======
+loginsuccess
+>>>>>>> lohin_feature
